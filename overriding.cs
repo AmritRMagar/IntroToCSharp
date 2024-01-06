@@ -8,7 +8,6 @@ class Shape
     }
 }
 
-// Derived classes
 class Circle : Shape
 {
     public override void Draw()
